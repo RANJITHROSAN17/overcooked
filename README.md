@@ -1,4 +1,4 @@
-Mayson's Personal Chinese Cooking Recipe Collection 🥢
+Mayson's Personal Cooking Recipe Collection 🥢
 ===
  
 Welcome to Mayson's Personal Chinese Cooking Recipe Collection, a curated repository of delicious and Chinese recipes, gathered and tested by Mayson himself. Explore the diverse flavors of Chinese cuisine, learn new cooking techniques, and enjoy the process of creating amazing dishes in your own kitchen!
